@@ -1,2 +1,3 @@
 # rsschool-cv
-My CV project.
+
+https://maslakovandrii.github.io/rsschool-cv/cv
