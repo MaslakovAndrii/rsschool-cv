@@ -1,19 +1,19 @@
 ## Maslakov Andrii
 
 ## My Contact Info:
-* GitHub: MaslakovAndrii
-* Phone: +380 99 555-27-56
-* E-mail: web.work.mv@gmail.com
++ GitHub: [MaslakovAndrii](https://github.com/MaslakovAndrii)
++ Phone: +380 99 555-27-56
++ E-mail: web.work.mv@gmail.com
 
 ## About Me 
 I'm 25 years old. My goal is to gain the necessary skills to get my first job in front-end development. 
 ##### My strengths: 
-- purposefulness
-- responsibility
-- honesty
-- communication skills 
++ purposefulness
++ responsibility
++ honesty
++ communication skills 
 The main rule for me is:
-> if I don’t know how to do something, I will definitely learn it.
+> _if I don’t know how to do something, I will definitely learn it._
 
 ## Skills
 + HTML (BEM)
@@ -32,9 +32,9 @@ allItems.forEach(function (e, n) {
 
 ## Education
 + Dnipro Medical Academy
-  * general medicine Sept 2014 - Jun 2020
-+ Online courses - "Freelancer lifestyle" by Yevgen Andrikanych
-  * MarkUp developer Sept 2021 - Jan 2021
+  + general medicine Sept 2014 - Jun 2020
++ Online courses - _"Freelancer lifestyle" by Yevgen Andrikanych_
+  + MarkUp developer Sept 2021 - Jan 2021
 
 ## Languages
 + Ukrainian - native speaker
