@@ -13,6 +13,7 @@ I'm 25 years old. My goal is to gain the necessary skills to get my first job in
 + responsibility
 + honesty
 + communication skills 
+
 The main rule for me is:
 > _if I don’t know how to do something, I will definitely learn it._
 
